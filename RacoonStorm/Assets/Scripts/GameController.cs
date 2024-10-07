@@ -44,8 +44,8 @@ namespace SpatialPartitionPattern
 
         public AudioSource yippee;
         public AudioSource yippee2;
-        public AudioSource yippee3;
-        public AudioSource yippee4;
+        //public AudioSource yippee3;
+        //public AudioSource yippee4;
         public AudioSource music;
 
 
